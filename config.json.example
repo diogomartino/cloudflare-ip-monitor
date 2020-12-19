@@ -1,0 +1,11 @@
+{
+    "email": "email@host.com",
+    "apiKey": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "zoneID": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "recordsToUpdate": [
+        {
+            "hostname": "test.mydomain.com",
+            "type": "A"
+        }
+    ]
+}

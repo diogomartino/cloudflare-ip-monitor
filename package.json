@@ -1,0 +1,15 @@
+{
+  "name": "cloudflare-ip-monitor",
+  "version": "1.0.0",
+  "description": "Updates a list of DNS records with the current IP address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cloudflare": "^2.7.0"
+  }
+}
